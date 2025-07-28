@@ -2,7 +2,6 @@
 
 This repository contains two Jupyter Notebooks demonstrating house price prediction using various machine learning techniques, including ensemble models.
 
----
 
 ## Files Included
 
@@ -28,10 +27,9 @@ The goal is to predict housing prices based on multiple features like number of 
 
 ### `house ensemble.ipynb`:
 - Training ensemble models:
-  - Voting Regressor
-  - Bagging Regressor
-  - Random Forest
-  - Gradient Boosting (e.g., XGBoost, LightGBM)
+  - Linear Regression
+  - DecosionTree Regressor
+  - Random Forest Regressor
 - Comparing model performance
 - Final prediction and model selection
 
@@ -43,7 +41,6 @@ The goal is to predict housing prices based on multiple features like number of 
 - NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
-- XGBoost / LightGBM
 - Jupyter Notebook
 
 
