@@ -39,7 +39,8 @@ The goal is to predict housing prices based on multiple features like number of 
 - Python
 - Pandas
 - NumPy
-- Matplotlib / Seaborn
+- Matplotlib
+- Seaborn
 - Scikit-learn
 - Jupyter Notebook
 
