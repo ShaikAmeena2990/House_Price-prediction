@@ -1,4 +1,4 @@
-# House Price Prediction using Machine Learning
+# Data-Driven Real Estate Price Prediction Using ML Models
 
 This repository contains two Jupyter Notebooks demonstrating house price prediction using various machine learning techniques, including ensemble models.
 
